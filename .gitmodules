@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = ./core
+[submodule "auth-service"]
+	path = auth-service
+	url = ./auth-service
+[submodule "profile-service"]
+	path = profile-service
+	url = ./profile-service
