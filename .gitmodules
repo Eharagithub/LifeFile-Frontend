@@ -6,4 +6,4 @@
 	url = https://github.com/Eharagithub/LifeFile-Auth.git
 [submodule "profile-service"]
 	path = profile-service
-	url = ./profile-service
+	url = https://github.com/Eharagithub/LifeFile-Profile.git
