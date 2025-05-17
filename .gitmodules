@@ -1,6 +1,6 @@
 [submodule "core"]
 	path = core
-	url = ./core
+	url = https://github.com/Eharagithub/LifeFile-Profile.git
 [submodule "auth-service"]
 	path = auth-service
 	url = ./auth-service
